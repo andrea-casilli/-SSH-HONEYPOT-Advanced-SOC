@@ -1,1 +1,1 @@
-# -SSH-HONEYPOT-Advanced-SOC
+# SSH HONEYPOT Advanced SOC
